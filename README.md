@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Rodrigo Braga</h1>
-<h3 align="center">Atualmente com 26 anos, busco começar uma nova carreira na área de programação.</h3>
+<h3 align="center">Atualmente com 27 anos, busco começar uma nova carreira na área de programação.</h3>
 
 <h3 align="left">Sobre mim:</h3>
 <p align="left">
