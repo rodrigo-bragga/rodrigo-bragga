@@ -3,7 +3,9 @@
 
 <h3 align="left">Sobre mim:</h3>
 <p align="left">
-Meu primeiro e atual emprego foi em uma loja chama Daiso Brasil, no qual comecei como atendente, posteriormente me tornei caixa e atualmente ocupo o cargo de Subgerente em uma das lojas de Brasília.
+Atualmente com 27 anos, busco começar uma nova carreira na área de programação.
+
+Meu primeiro emprego foi em uma loja chama Daiso Brasil, no qual comecei como atendente, posteriormente me tornei caixa e cheguei no cargo de Subgerente em uma das lojas de Brasília.
 
 Entretanto, sempre tive vontade de ter uma carreira, e por meio de amigos conheci a área de programação.
 Comecei a estudar por conta própria um curso de Lógica de Programação do professor Gustavo Guanabara do Curso em Vídeo. Foi então que eu pude entender como aplicativos e sites eram formados e me fascinei com os desafios e a lógica utilizada em seus desenvolvimentos. Área na qual eu já gostava e me sobressaia.
@@ -11,7 +13,7 @@ Comecei a estudar por conta própria um curso de Lógica de Programação do pro
 Em seguida comecei os estudos na parte front-end com HTML e CSS. Novamente fiquei admirado de poder entender como os sites são construídos. 
 Porém, somente quando comecei a estudar minha primeira linguagem de programação, JavaScript, foi que descobrir a área na qual quero atuar. 
 Toda a lógica e pensamento por traz da linguagem de programação, e tudo o que é possível fazer com um código, me fizeram querer conhecer mais.
-Por isso em fevereiro de 2022 comecei um novo curso superior na área da programação pelo IESB. E além disso, fiz uma assinatura na escola online Alura, no qual atualmente tenho focado meus estudos para a área de Banco de Dados, Java e TypeScript.
+Por isso em fevereiro de 2022 comecei um novo curso superior na área da programação pelo IESB.
 </p>
 
 <h3 align="left">Dominío maior em:</h3>
